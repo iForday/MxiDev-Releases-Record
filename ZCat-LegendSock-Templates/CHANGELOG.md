@@ -13,6 +13,14 @@ ZCat LegendSock Templates是一款适配 LegendSock 的模板。
   - 修复 部分细节地方的小错误
   - 优化 重新整理ZCat模板中的JavaScript部分
 
+***
+
++ #### 升级注意事项:
+
++ 从1.1版本升级只需前往MxiDev客户中心下载新版本覆盖即可
++ 从1.0版本升级需要将原先版本的ZCat_LS配套插件文件夹删去(文件夹目录: modules/addons/ZCat_LS/)，重新导入文件
+
+***
 
 #### 1.1 (2018-07-31)
 
