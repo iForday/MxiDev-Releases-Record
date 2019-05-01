@@ -14,6 +14,8 @@ ZCat LegendSock Templates是一款适配 LegendSock 的模板。
   - 修复 节点状态无法显示的问题
   - 修复 一些小问题
 
+***
+
 #### 2.2 (2019-04-29)
 
   - 新增 订阅列表全新样式，增加Surge/Clash配置托管地址复制按键
